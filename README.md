@@ -5,6 +5,7 @@ rate limiting, status tracking, and more.
 ### 🧩 Features
 ✅ Retry Mechanism : Exponential backoff retry strategy
 ✅ Provider Fallback : Switches to backup provider on failure
+
 ✅ Idempotency : Prevents duplicate email sends using unique IDs
 ✅ Rate Limiting : Limits number of emails per minute
 ✅ Status Tracking : Logs every attempt (queued, sent, failed)
