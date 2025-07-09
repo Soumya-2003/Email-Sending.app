@@ -24,9 +24,9 @@ rate limiting, status tracking, and more.
 ### 🚀 Getting Started
 1. Clone the project
 
-  `git clone https://github.com/Soumya-2003/Email-Sending.app.git`
+    `git clone https://github.com/Soumya-2003/Email-Sending.app.git`
 
-  `cd email-service`
+    `cd email-service`
 
 3. Install dependencies
    
