@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom global styles */
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #f9fafb; /* Tailwind's gray-50 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
