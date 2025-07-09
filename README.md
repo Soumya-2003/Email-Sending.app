@@ -23,17 +23,18 @@ rate limiting, status tracking, and more.
 
 ### 🚀 Getting Started
 1. Clone the project
+
   `git clone https://github.com/Soumya-2003/Email-Sending.app.git`
 
   `cd email-service`
 
 3. Install dependencies
    
-  `npm install`
+    `npm install`
 
 5. Start the development server
    
-   `npm run dev`
+     `npm run dev`
 
 Open http://localhost:3000 in your browser to view the app.
 
